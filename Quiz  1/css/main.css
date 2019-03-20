@@ -1,0 +1,54 @@
+
+
+ h1  {background: red;
+	font-size: 30px;
+    align-content: center;
+
+
+
+
+ }
+ header a hover {
+ 	background: grey;
+ 	text-align: right;
+ 	text-decoration: none;
+ 	
+ 	
+ 
+}
+a {
+  background-color: powderblue;
+  transition: background-color .5s;
+}
+
+a:hover {
+  background-color: gold;
+}
+a:hover {
+	background-color: bold;
+}
+ header ul   {
+ 	margin:0 auto;
+   color: orange;
+
+ 
+ }
+
+ body {
+ 	background-image:(https://www.girls-can-do.org/wp-content/uploads/2014/10/YWE_NEW.jpg);
+ 	background-color: blue
+ 	font-size: 30px;
+ 	text-decoration-color: red;
+ 	font-size: 30px;
+
+ 
+
+
+ }
+  header h3 p  {
+ 	text-decoration-color: red;
+
+ }
+ 
+
+ 
