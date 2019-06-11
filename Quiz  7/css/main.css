@@ -1,0 +1,38 @@
+body{
+	background-color: orange;
+	font-family: arial;
+}
+.cont{
+	width: 600px;
+	margin: 0 auto;
+
+
+}
+
+.content{
+	min-height: 300px;
+	width: 600px;
+	margin: 0 auto;
+
+}
+
+.song{
+	
+	width: 600px;
+	margin: 0 auto;
+
+
+}
+.media-map {
+	width: 100%;
+	text-align: center;
+
+
+
+}
+
+.Audio{
+	width: 100%;
+	text-align: center;
+
+}

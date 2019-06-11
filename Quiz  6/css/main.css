@@ -1,0 +1,45 @@
+body{
+	background-color: #ccc;
+	font-family: arial;
+}
+.content{
+	width: 500px;
+	margin: 40px auto;
+}
+.content table{
+width: 100%;
+background-color: #fff;
+text-align: left;
+border: 1px solid #aaa;
+border-collapse:collapse; 
+}
+.content table tr td{
+	border-right: 1px solid #aaa;
+	padding: 20px;
+}
+.content table tr th{
+	padding: 20px;
+	background-color: #333;
+
+}
+.content table th{
+color: white;
+}
+.content table tr {
+	border-bottom: 1px  solid #aaa;
+
+
+}
+.content table tr td:last-child{
+	border-right: none;
+}
+
+
+.content table tr:last-child td:last-child{
+	background-color: red;
+}
+
+
+.content table tr:nth-child(odd){
+	background-color: orange;
+}

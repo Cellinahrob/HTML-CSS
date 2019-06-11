@@ -1,0 +1,17 @@
+ 
+body {
+	background-color: #ccc;
+	background-image: url(../images5/idw.gif),url(../images5/baloon.png);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 15%,30%,20%,cover;
+	background-position: right 10% right 5%, left 5%,center;
+}
+.container{
+	width: 600px;
+	color: #fff;
+	padding: 30px;
+	margin: 0 auto;
+	min-height: 500px;
+	background-color: rgba(0,0,0,0.5);
+}
